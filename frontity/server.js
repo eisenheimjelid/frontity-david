@@ -1,3 +1,4 @@
+const newrelic = require('newrelic');
 const serve = require("@frontity/core/dist/src/scripts/serve").default;
 
 serve({

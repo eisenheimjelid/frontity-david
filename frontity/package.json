@@ -22,6 +22,7 @@
     "@frontity/wp-source": "^1.11.1",
     "@frontity/tiny-router": "^1.3.1",
     "@frontity/html2react": "^1.6.1",
-    "@frontity/mars-theme": "./packages/mars-theme"
+    "@frontity/mars-theme": "./packages/mars-theme",
+    "newrelic": "latest"
   }
 }
